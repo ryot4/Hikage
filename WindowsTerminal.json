@@ -1,0 +1,25 @@
+{
+    "schemes": [
+        {
+            "name": "Hikage",
+            "foreground": "#A4A4A4",
+            "background": "#111111",
+            "black": "#111111",
+            "red": "#B25959",
+            "green": "#708F64",
+            "yellow": "#B38B63",
+            "blue": "#4D6299",
+            "purple": "#9A6C8C",
+            "cyan": "#54828C",
+            "white": "#A4A4A4",
+            "brightBlack": "#6C6C6C",
+            "brightRed": "#D96262",
+            "brightGreen": "#7DB26B",
+            "brightYellow": "#CDB45D",
+            "brightBlue": "#567AD9",
+            "brightPurple": "#D876BA",
+            "brightCyan": "#56ACBF",
+            "brightWhite": "#CCCCCC"
+        }
+    ]
+}
